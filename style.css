@@ -9,7 +9,8 @@ header{
   text-align: center;
 }
 
-header a{ 
+nav a{ 
+  padding: 10px;
   background-color: gray;
 }
 
